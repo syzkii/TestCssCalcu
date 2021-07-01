@@ -1,0 +1,1 @@
+console.log("Selamat, anda menggunakan Javascript di website")
