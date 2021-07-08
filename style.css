@@ -18,6 +18,10 @@
  .flex-container-row {
     display: flex;
  }
+
+ .double {
+   flex-basis: 50%;
+}
   
  .button {
     flex-basis: 25%;
